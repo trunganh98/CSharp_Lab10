@@ -1,0 +1,4 @@
+D:\C#\Session 10\Snippet 6\obj\Debug\netcoreapp3.1\Snippet 6.csprojAssemblyReference.cache
+D:\C#\Session 10\Snippet 6\obj\Debug\netcoreapp3.1\Snippet 6.AssemblyInfoInputs.cache
+D:\C#\Session 10\Snippet 6\obj\Debug\netcoreapp3.1\Snippet 6.AssemblyInfo.cs
+D:\C#\Session 10\Snippet 6\obj\Debug\netcoreapp3.1\Snippet 6.csproj.CoreCompileInputs.cache

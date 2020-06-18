@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFKD5pYjYl5e5TBH6MHH+xY/vRqrV5yARQMGS8Zb2z8oLZYMip6Q3X8nOeTjfNXwOueML/6Dx73K/ME5iQUpew==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Session 10\\Snippet 4\\Snippet 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
